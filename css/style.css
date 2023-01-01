@@ -10,6 +10,7 @@ body{
     width: 50%;
     margin: auto;
     text-align: center;
+    margin-top: 20px;
     
 }
 .header img{
@@ -221,10 +222,12 @@ body{
 
 @media ( max-width: 767px){
 
+
+
+
     .header img{
 
         width: 50px;
-        
     }
 
     /* //////////////// hero ////////////// */
